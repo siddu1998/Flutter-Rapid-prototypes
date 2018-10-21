@@ -1,0 +1,24 @@
+[
+    {
+        "name":"Sai Siddartha",
+        "age": "23",
+        "gender":"Male"
+    },
+
+    {
+        "name":"Tanuj Vishnoi",
+        "age": "23",
+        "gender":"Male"
+    },
+    {
+        "name":"Sachin Pandey",
+        "age": "23",
+        "gender":"Male"
+    },
+    {
+        "name":"Virat Kohli",
+        "age": "23",
+        "gender":"Male"
+    }
+
+]
